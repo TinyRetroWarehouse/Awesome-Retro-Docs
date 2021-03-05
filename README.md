@@ -1,14 +1,13 @@
 # Awesome Retro.Docs
 
->**Awesome Retro.Docs** is a project without focus on sales and designed for educational, reference and archival purpose only.
+>**Awesome Retro.Docs** is a non-profit, community driven curation and long-term preservation of any and all documents related to legacy systems, and should be used ONLY for educational, reference and archival purposes.
 
-## What is this?
+## About
 
-A curated collection of technical documents, including diagrams, manuals, schematics, datasheets and technical information for Arcades, Handhelds, Consoles, Computers and MCU’s.
+This is curated collection of technical documents, including diagrams, manuals, schematics, datasheets and technical information for Arcades, Handhelds, Consoles, Computers and MCU’s.
 
-## Legal
+## License
 
-**Tiny Retro Warehouse** - Copyright © 2019-2020 Marcus Andrade. 
+TinyRetroWarehouse and any of its maintainers are in no way associated with or endorsed any company not implicit indicated.
 
-Any other content, brand names or logos are copyright or trademark to their respective owners.
-
+All other brands or product names are the property of their respective holders.
